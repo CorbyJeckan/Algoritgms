@@ -2,7 +2,7 @@
 {
     public class DoublyNode<T>
     {
-        public DoublyNode(T data)
+        public DoublyNode(T data) //sd
         {
             Data = data;
         }

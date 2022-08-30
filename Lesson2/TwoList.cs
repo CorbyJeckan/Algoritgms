@@ -72,7 +72,7 @@ namespace Thread2447455
                 }
                 else
                 {
-                    // если первый, переустанавливаем head
+                    // если первый,. переустанавливаем head
                     head = current.Next;
                 }
                 count--;

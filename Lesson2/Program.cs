@@ -20,7 +20,7 @@ namespace Thread2447455
 
             linkedList.Remove("Bill");
 
-            // перебор с последнего элемента
+            // перебор с последнего элементаs
             foreach (var t in linkedList.BackEnumerator())
             {
                 Console.WriteLine(t);
